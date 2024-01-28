@@ -1,0 +1,33 @@
+MATHS
+
+1-Laplace transform - 6:34
+https://www.youtube.com/playlist?list=PLKS7ZMKnbPrT8kiya7QCDixR3QdhYz-B3
+2-Fourier Series - 4:32
+https://www.youtube.com/playlist?list=PLKS7ZMKnbPrQHf0tf29cSp4xkLVG5xLWF
+3-Linear Algebra Matrix Theory - 3:50
+https://www.youtube.com/playlist?list=PLKS7ZMKnbPrQ9iPsuRgqpmoHkKTq9NVuA
+4-Complex variables and conformal mapping - 4:09
+https://www.youtube.com/watch?v=XvLnHIPsWqY&list=PLTYWkBB_Zi66YTABmgDdxSzVjLLBL7S9s
+5-Discrete maths
+https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3
+
+
+DSA - 31:51
+
+https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
+
+DBMS - 23:30
+
+https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y
+
+Digital Logic - 6:30
+
+https://www.youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe
+
+Computer architecture - 9:30
+
+https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX
+
+Communication Engineering- 13:30
+
+https://www.youtube.com/playlist?list=PL3rE2jS8zxAyH86fcVXVFY4iC8rdaIPS7
